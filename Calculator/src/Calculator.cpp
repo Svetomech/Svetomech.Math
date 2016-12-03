@@ -162,7 +162,7 @@ class Calculator
                 char c = input[i];
                 char cn = input[i + 1];
 
-
+                // not implemented
             }
         }
 
